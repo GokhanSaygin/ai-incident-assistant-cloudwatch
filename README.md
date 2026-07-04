@@ -1,5 +1,7 @@
 # AI Incident Assistant for CloudWatch Logs
 
+![AI Incident Assistant Architecture](assets/ai-incident-assistant-workflow.png)
+
 AI-powered incident assistant that analyzes recent CloudWatch error logs with Amazon Bedrock and generates an incident summary, possible root causes, and recommended troubleshooting steps.
 
 ## Project Overview
